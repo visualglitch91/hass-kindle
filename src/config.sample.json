@@ -1,0 +1,4 @@
+{
+  "token": "HASS_LONG_TERM_TOKEN",
+  "server": "http://hass:8123"
+}
